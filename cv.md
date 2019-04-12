@@ -3,6 +3,7 @@ layout: cv
 style: davewhipp 
 title: My CV
 permalink: /cv/
+order: 1000
 ---
 # Ivan Chalov
 iOS Developer\\
