@@ -20,7 +20,7 @@ __iOS Developer__, Distillery LLC
 
 
 _Head of iOS department_\\
-In the February of 2018 I took the role of the head of iOS department. My main goal in this role is to shape our department to be more like a team than just some engineers working on different projects.
+In February 2018 I took the role of the head of iOS department. My main goal in this role is to shape our department to be more like a team and to help people with professional growth. Things that I did in this role: introduced a performance review process, organized weekly meetups in the department, established a 1-on-1 meetings practice.
 
 _Project: Tri Star_\\
 Tri Star Sports and Entertainment Group is a single-source business management firm that provides personal Chief Financial Officer services. 
@@ -36,7 +36,7 @@ __iOS Developer__, ZAO BCC
 
 
 _Project: FrontStage_\\
-MediaStage - carrier-class solution for implementing interactive television projects at any access networks and for all types of subscriber devices. FrontStage part of the project is a set of client applications for different platforms, that provide unified experience and convenient access to interactive video services. 
+MediaStage - carrier-class solution for implementing interactive television projects at any access networks and for all types of subscriber devices. FrontStage part of the project is a set of client applications for different platforms, that provide a unified experience and convenient access to interactive video services. 
 I was working on iOS and tvOS apps for this project, which is highly customisable and can be easily tailored for different customers. It has lots of custom UI elements, which were quite a challenge to implement. I learned a lot about HLS and iOS player frameworks, worked with In-App Purchases, developed architecture for rather complex business logic, non-standard navigation and model layer, that needs to be updated from Push Notifications and/or WebSockets.
  
 
@@ -44,14 +44,14 @@ I was working on iOS and tvOS apps for this project, which is highly customisabl
 __iOS Developer__, MobileUp LLC
 
 
-Outsourcing company, I had a number of projects there. I worked both alone and in team, was building some projects from scratch, some joined later on, had different tasks including architecture development, memory optimisation, UI and UX and so on. I used a vast amount of technologies in different projects, e.g. MapKit, CoreLocation, Bonjour, XSLT...
+A consulting company, I had a number of projects there. I worked both alone and in a team, was building some projects from scratch, some joined later on, had different tasks including architecture development, memory optimisation, UI and UX and so on. I used a vast amount of technologies in different projects, e.g. MapKit, CoreLocation, Bonjour, XSLT...
 
 
 `2009-2011`
 __iOS Developer__, Noviy Marketing LLC
 
 
-Startup company I worked at from day one. I was involved in everything from designing prototype to releasing to AppStore and supporting our app after that.
+Startup company I worked at from day one. I was involved in everything from designing a prototype to releasing to AppStore and supporting our app after that.
 
 ## Skills
 
@@ -65,5 +65,5 @@ __Specialist, Software and Administration of Information Systems__, St. Petersbu
 Russia
 
 
-<!-- Last updated: April 2019 -->
+<!-- Last updated: July 2019 -->
 
