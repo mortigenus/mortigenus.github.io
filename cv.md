@@ -7,7 +7,7 @@ order: 1000
 ---
 # Ivan Chalov
 iOS Developer\\
-St. Petersburg, Russia
+Berlin, Germany
 
 <div id="webaddress">
 <a href="mailto:mortigenus@gmail.com">mortigenus@gmail.com</a>
@@ -15,7 +15,14 @@ St. Petersburg, Russia
 
 ## Experience
 
-`2016-present`
+`2019-present`
+__iOS Developer__, Gastrofix GmbH
+
+
+GASTROFIX is a comprehensive POS system on iPad containing all features that you would find in an expensive conventional system: ordering, paying, canceling, invoicing and printing, etc. There's also a comprehensive back-office in the cloud, which can be used to see all your sales in real-time and make adjustments to products and prices.
+
+
+`2016-2019`
 __iOS Developer__, Distillery LLC
 
 
@@ -65,5 +72,5 @@ __Specialist, Software and Administration of Information Systems__, St. Petersbu
 Russia
 
 
-<!-- Last updated: July 2019 -->
+<!-- Last updated: November 2019 -->
 
